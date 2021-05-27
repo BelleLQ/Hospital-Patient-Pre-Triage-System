@@ -2,7 +2,7 @@
 Because of the pandemic and prevention of the spread of COVID19, hospitals need to screen the patients and separate those in need of COVID-test from others. This has to be done in an orderly fashion by letting the patients know what is the expected wait time and let them know when they can be admitted to prevent lineups. 
 
 # Program features
-- The program processes normal patients separately from COVID patients.
+- The program processes COVID and normal patients' registration and admission.
 - A patient information can be input by the user or reading from a file.
 - The program automatically loads the data file holding the patients' records that are already in the lineup when starting.
 - The program automatically saves the patients' records that are already in the lineup before exiting.
